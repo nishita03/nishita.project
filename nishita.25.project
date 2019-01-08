@@ -36,7 +36,7 @@ elif y.lower()=='y':
 import time
 print("Welcome to the Game of Nim.")
 print(" R  U  L  E  S ")
-print("There is a stack of stones with specific number of stones on it. 
+print("There is a stack of stones with specific number of stones on it.") 
 print("It's a multipLayer game, so make sure there's someone you can play with.")
 print("The players have to one by one enter the number(between 1 to 3) of stone they want to remove from the stack.")
 print("The player who gets the last stone wins!")
